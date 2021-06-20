@@ -1,1 +1,2 @@
-# farry-and-star
+# Geologist
+Geologist Project
